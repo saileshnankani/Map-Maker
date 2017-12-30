@@ -1,2 +1,2 @@
 # Map-Maker
-Class project for SE 101. 
+Software Engineering project. 
