@@ -1,2 +1,2 @@
 # Map-Maker
-Project for Software Engineering 101 at University of Waterloo. The aim of the project is to use Arduino to map the walls of a room or any large area using ultrasonic sensors and GPS. Contributors: Matheiu Godin, Sailesh Nankani, Shubhangi Raj 
+Arduino project for SE 101. The aim of the project is to use Arduino Mega to map the environment around you and measure distance from any object using ultrasonic sensors and GPS (SLAM). Contributors: Matheiu Godin, Sailesh Nankani, Shubhangi Raj 
